@@ -1,4 +1,4 @@
-# Painel de Cursos 📊
+# Mini-Projeto Fullstack 📊
 
 Projeto desenvolvido como **Marco 1** para demonstrar a construção de uma pipeline de dados simples, integrando tratamento de dados, banco de dados relacional, API no backend e exibição no frontend.
 
