@@ -1,0 +1,385 @@
+matricula_id,aluno,responsavel,curso,turno,situacao,mensalidade,data_matricula
+5001,Nathalia Kunz   ,Gabriela Fagundes,TÉCNICO EM SEGURANÇA DO TRABALHO,Manhã,CONCLUÍDO,310.0,2026-02-03
+5002,  Sabrina Brum,Marcos Carvalho,TÉCNICO EM CONTABILIDADE,Tarde,CONCLUÍDO,310.0,2025-02-20
+5003,Tiago Schneider,Nathalia Machado Rocha,TÉCNICO EM ADMINISTRAÇÃO,Noite,EVADIDO,340.0,2026-04-23
+5004,Elisa Lima,Nelson Fontoura,TÉCNICO EM ADMINISTRAÇÃO,Noite,CURSANDO,330.0,2025-02-13
+5005,Alexandre Brum,Leonardo Brum,TÉCNICO EM ENFERMAGEM,Noite,CONCLUÍDO,490.0,2025-03-18
+5006,  Aline Ribeiro,Jonas Brum,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,CURSANDO,290.0,2025-11-18
+5007,Daniela Rossi,Aline Fagundes,TÉCNICO EM ENFERMAGEM,Tarde,EVADIDO,480.0,2026-01-24
+5008,Matheus Gomes,Tatiane Souza,TÉCNICO EM ENFERMAGEM,Noite,EVADIDO,480.0,2025-04-28
+5009,Cristiane Dutra,Renata Dutra,TÉCNICO EM ADMINISTRAÇÃO,Noite,CURSANDO,320.0,2025-06-15
+5010,Nathalia Gomes Bortolotto,Willian Bueno Vargas,TÉCNICO EM SEGURANÇA DO TRABALHO,Tarde,CURSANDO,300.0,2025-12-11
+5011,Adriana Martins,Mariana Trindade,TÉCNICO EM LOGÍSTICA,Manhã,CONCLUÍDO,330.0,2026-03-20
+5012,Marcos Vargas,,TÉCNICO EM CONTABILIDADE,Noite,EVADIDO,330.0,2025-02-07
+5013,Camila Barcellos,Rafael Martins Costa,TÉCNICO EM INFORMÁTICA,Tarde,CONCLUÍDO,390.0,2025-10-23
+5014,Everton Santos,Lucas Silva,TÉCNICO EM ADMINISTRAÇÃO,Manhã,CURSANDO,300.0,2025-08-09
+5015,Everton Trindade,Bruno Oliveira Dutra,TÉCNICO EM SEGURANÇA DO TRABALHO,Tarde,CURSANDO,300.0,2026-07-10
+5016,Cristiane Ferreira,Douglas Nunes,TÉCNICO EM SEGURANÇA DO TRABALHO,Manhã,CURSANDO,280.0,2025-12-01
+5017,Matheus Gomes,Tatiane Souza,TÉCNICO EM ENFERMAGEM,Noite,EVADIDO,480.0,2025-04-28
+5018,Lucas Sartori,Tiago Dutra Brum,TÉCNICO EM ENFERMAGEM,Manhã,CURSANDO,470.0,2025-12-06
+5019,Adriana Barcellos Rocha   ,Douglas Lima Sartori,TÉCNICO EM ESTÉTICA,Noite,CONCLUÍDO,410.0,2025-08-04
+5020,Nathalia Rocha,Vanessa Costa,TÉCNICO EM ADMINISTRAÇÃO,Noite,EVADIDO,320.0,2026-05-12
+5021,Jonas Martins,Gabriela Kunz,TÉCNICO EM INFORMÁTICA,Noite,CURSANDO,410.0,2025-06-29
+5022,Andre Zanella,Camila Beltrame,TÉCNICO EM LOGÍSTICA,Manhã,CONCLUÍDO,330.0,2025-08-26
+5023,Alexandre Dutra,Aline Vargas,TÉCNICO EM LOGÍSTICA,Noite,CONCLUÍDO,320.0,2025-07-30
+5024,Felipe Oliveira,Fernanda Bortolotto Rodrigues,TÉCNICO EM ADMINISTRAÇÃO,Noite,CONCLUÍDO,340.0,2025-11-29
+5025,Adriana Lima,Aline Fagundes,TÉCNICO EM ADMINISTRAÇÃO,Noite,CURSANDO,330.0,2025-10-21
+5026,Nelson Dutra,Gustavo Costa,TÉCNICO EM ENFERMAGEM,Noite,CONCLUÍDO,480.0,2025-04-16
+5027,Andre Souza Beltrame,Gustavo Ribeiro,TÉCNICO EM CONTABILIDADE,Manhã,CURSANDO,310.0,2025-11-10
+5028,Matheus Rodrigues Rocha,Carla Souza,TÉCNICO EM LOGÍSTICA,Tarde,CONCLUÍDO,320.0,2025-11-16
+5029,Eduardo Ribeiro Machado,Cristiane Nunes Sartori,TÉCNICO EM INFORMÁTICA,Tarde,CURSANDO,390.0,2026-07-16
+5030,Vinicius Feltrin,Rosane Kunz Menezes,TÉCNICO EM ESTÉTICA,Noite,CONCLUÍDO,440.0,2025-12-24
+5031,Cesar Rodrigues,Pedro Beltrame Cardoso,TÉCNICO EM ADMINISTRAÇÃO,Manhã,CURSANDO,320.0,2025-03-17
+5032,Ana Carvalho,,TÉCNICO EM SEGURANÇA DO TRABALHO,Tarde,CONCLUÍDO,300.0,2026-03-02
+5033,Tatiane Rodrigues Dutra,,TÉCNICO EM LOGÍSTICA,Manhã,EVADIDO,330.0,2025-08-14
+5034,Bruno Gomes Marques,Pedro Schneider,TÉCNICO EM INFORMÁTICA,Manhã,EVADIDO,390.0,2025-10-03
+5035,Willian Rocha,Jessica Bortolotto,TÉCNICO EM ADMINISTRAÇÃO,Tarde,EVADIDO,310.0,2025-03-16
+5036,Rodrigo Rocha,Otavio Bueno,TÉCNICO EM SEGURANÇA DO TRABALHO,Manhã,CONCLUÍDO,320.0,2025-05-25
+5037,  Mariana Gomes,Vinicius Sartori,TÉCNICO EM CONTABILIDADE,Manhã,CURSANDO,330.0,2025-09-24
+5038,Maria Trindade Oliveira,Alexandre Feltrin,TÉCNICO EM SEGURANÇA DO TRABALHO,Manhã,CURSANDO,300.0,2025-11-08
+5039,Sabrina Zanella Kunz,Jessica Trindade,TÉCNICO EM ADMINISTRAÇÃO,Tarde,EVADIDO,310.0,2025-03-07
+5040,Daniela Schneider Vargas,Mariana Fagundes,TÉCNICO EM ADMINISTRAÇÃO,Noite,CURSANDO,320.0,2025-12-07
+5041,Aline Feltrin Santos   ,Ana Silva,TÉCNICO EM ADMINISTRAÇÃO,Tarde,CURSANDO,310.0,2026-06-25
+5042,Luciana Marques,Nelson Almeida Rocha,TÉCNICO EM SEGURANÇA DO TRABALHO,Manhã,CURSANDO,280.0,2026-07-04
+5043,Gabriela Ribeiro,Luciana Ferreira Gomes,TÉCNICO EM ESTÉTICA,Noite,CURSANDO,420.0,2025-02-05
+5044,Paulo Almeida Kunz,Jessica Vargas,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,CONCLUÍDO,300.0,2025-04-22
+5045,Patricia Pilla Pilla,Thiago Marques,TÉCNICO EM LOGÍSTICA,Tarde,CONCLUÍDO,350.0,2025-07-25
+5046,Otavio Ferreira   ,Amanda Bueno Fontoura,TÉCNICO EM ADMINISTRAÇÃO,Manhã,CONCLUÍDO,330.0,2026-02-03
+5047,Sergio Vargas Marques,Diego Oliveira Rocha,TÉCNICO EM ESTÉTICA,Manhã,EVADIDO,400.0,2026-01-16
+5048,Douglas Kunz,Ricardo Carvalho Menezes,TÉCNICO EM ADMINISTRAÇÃO,Tarde,EVADIDO,330.0,2025-07-10
+5049,Fernanda Marques Ribeiro,Leticia Fontoura Brum,TÉCNICO EM LOGÍSTICA,Manhã,CONCLUÍDO,340.0,2025-09-11
+5050,Eduarda Rocha,Patricia Silva Silva,TÉCNICO EM ENFERMAGEM,Noite,CONCLUÍDO,480.0,2025-06-06
+5051,Bruna Beltrame,Sergio Ribeiro,TÉCNICO EM ADMINISTRAÇÃO,Noite,CONCLUÍDO,300.0,2026-01-02
+5052,Rafael Schneider,Daniela Brum,TÉCNICO EM ESTÉTICA,Noite,EVADIDO,430.0,2026-06-02
+5053,Otavio Santos,Priscila Santos Martins,TÉCNICO EM ESTÉTICA,Noite,EVADIDO,430.0,2025-10-18
+5054,Willian Oliveira Lima,Lucas Ribeiro,TÉCNICO EM LOGÍSTICA,Tarde,CURSANDO,320.0,2025-08-09
+5055,Cristiane Santos Machado,Lucas Gomes Moraes,TÉCNICO EM ADMINISTRAÇÃO,Noite,EVADIDO,340.0,2026-03-21
+5056,Bianca Ribeiro,,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,CONCLUÍDO,310.0,2025-06-07
+5057,Carla Dutra Weber,Juliana Oliveira Ribeiro,TÉCNICO EM ADMINISTRAÇÃO,Noite,CURSANDO,320.0,2026-06-02
+5058,Priscila Pereira Oliveira,Bruno Silva Pilla,TÉCNICO EM SEGURANÇA DO TRABALHO,Manhã,CURSANDO,310.0,2025-11-07
+5059,Carla Feltrin,Larissa Bueno,TÉCNICO EM LOGÍSTICA,Manhã,CURSANDO,310.0,2026-03-01
+5060,Cristiane Fontoura,Amanda Kunz Feltrin,TÉCNICO EM CONTABILIDADE,Manhã,EVADIDO,310.0,2025-07-19
+5061,Gustavo Barcellos Rocha,Cesar Zanella,TÉCNICO EM ENFERMAGEM,Noite,CONCLUÍDO,470.0,2025-07-07
+5062,Aline Ribeiro,Jonas Brum,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,CURSANDO,290.0,2025-11-18
+5063,Daniela Silva Trindade,Camila Sartori,TÉCNICO EM CONTABILIDADE,Manhã,EVADIDO,330.0,2026-01-02
+5064,Juliana Zanella Machado,Vinicius Pilla Marques,TÉCNICO EM ESTÉTICA,Noite,CURSANDO,420.0,2026-03-11
+5065,Camila Ribeiro,Ana Souza,TÉCNICO EM INFORMÁTICA,Tarde,CURSANDO,390.0,2026-03-20
+5066,Douglas Trindade,Juliana Ferreira,TÉCNICO EM ADMINISTRAÇÃO,Tarde,CURSANDO,340.0,2025-02-25
+5067,  Rafael Fagundes,Leonardo Weber,TÉCNICO EM SEGURANÇA DO TRABALHO,Tarde,CURSANDO,280.0,2026-01-26
+5068,Vinicius Zanella,Rosane Zanella,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,EVADIDO,300.0,2025-02-11
+5069,Fernanda Goulart Ribeiro,Gabriela Costa Cardoso,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,EVADIDO,300.0,2025-10-19
+5070,Daniela Kunz   ,Bianca Pilla,TÉCNICO EM ENFERMAGEM,Manhã,CONCLUÍDO,500.0,2025-04-17
+5071,Fernanda Moraes Silva,Priscila Rocha Rossi,TÉCNICO EM LOGÍSTICA,Noite,EVADIDO,330.0,2026-01-19
+5072,Camila Goulart Pilla,Bruna Moraes,TÉCNICO EM ENFERMAGEM,Tarde,EVADIDO,480.0,2026-06-08
+5073,Aline Nunes Beltrame,Ana Santos,TÉCNICO EM ADMINISTRAÇÃO,Manhã,CURSANDO,310.0,2025-05-07
+5074,Bruno Oliveira Costa,Gabriela Fagundes Almeida,TÉCNICO EM ENFERMAGEM,Noite,CONCLUÍDO,480.0,2025-02-23
+5075,Mariana Oliveira,Rafael Costa,TÉCNICO EM ENFERMAGEM,Tarde,CONCLUÍDO,500.0,2025-09-14
+5076,Nathalia Cardoso,Maria Cardoso Feltrin,TÉCNICO EM LOGÍSTICA,Noite,CURSANDO,320.0,2026-01-08
+5077,Adriana Martins,Rafael Moraes,TÉCNICO EM ADMINISTRAÇÃO,Noite,CURSANDO,320.0,2025-06-17
+5078,Vinicius Trindade,Pedro Silva Lima,TÉCNICO EM ENFERMAGEM,Manhã,CURSANDO,460.0,2026-02-02
+5079,Sergio Lima Pereira,Rosane Moraes,TÉCNICO EM CONTABILIDADE,Noite,CURSANDO,320.0,2025-06-10
+5080,Nelson Pilla,Carla Sartori Zanella,TÉCNICO EM ADMINISTRAÇÃO,Tarde,CURSANDO,320.0,2026-05-16
+5081,Rosane Trindade Weber,Amanda Costa Brum,TÉCNICO EM ENFERMAGEM,Noite,EVADIDO,480.0,2025-09-23
+5082,Luciana Fontoura,Rosane Beltrame,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,CONCLUÍDO,300.0,2026-02-17
+5083,Otavio Beltrame,Adriana Carvalho,TÉCNICO EM CONTABILIDADE,Noite,CURSANDO,310.0,2026-02-27
+5084,Otavio Bueno,Cristiane Machado,TÉCNICO EM ADMINISTRAÇÃO,Tarde,CURSANDO,330.0,2026-01-29
+5085,Adriana Feltrin,Nelson Schneider,TÉCNICO EM ESTÉTICA,Noite,CURSANDO,430.0,2025-10-11
+5086,Daniela Cardoso,Daniela Gomes Brum,TÉCNICO EM ADMINISTRAÇÃO,Manhã,CURSANDO,340.0,2026-05-28
+5087,Ana Marques,Fabio Menezes Barcellos,TÉCNICO EM SEGURANÇA DO TRABALHO,Manhã,CURSANDO,290.0,2026-07-28
+5088,Pedro Goulart   ,Fernanda Moraes Marques,TÉCNICO EM LOGÍSTICA,Noite,EVADIDO,330.0,2025-12-29
+5089,Jessica Martins Sartori,Vinicius Santos Barcellos,TÉCNICO EM INFORMÁTICA,Manhã,CURSANDO,400.0,2025-11-21
+5090,  Fernanda Marques,Eduarda Cardoso,TÉCNICO EM INFORMÁTICA,Noite,CURSANDO,390.0,2026-04-29
+5091,Felipe Weber Marques,Aline Bueno,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,CURSANDO,320.0,2025-11-09
+5092,Aline Menezes Pilla,Matheus Bortolotto,TÉCNICO EM INFORMÁTICA,Noite,CURSANDO,390.0,2025-02-11
+5093,Jonas Zanella Sartori,Juliana Souza,TÉCNICO EM ENFERMAGEM,Manhã,CURSANDO,480.0,2025-07-01
+5094,Everton Trindade,Eduarda Fontoura,TÉCNICO EM ADMINISTRAÇÃO,Noite,CONCLUÍDO,310.0,2026-03-07
+5095,Vanessa Pereira,Simone Machado,TÉCNICO EM ENFERMAGEM,Noite,CURSANDO,500.0,2026-03-05
+5096,Luciana Santos,Daniela Dutra,TÉCNICO EM INFORMÁTICA,Manhã,CONCLUÍDO,390.0,2026-01-08
+5097,Everton Cardoso Costa   ,Larissa Lima,TÉCNICO EM ADMINISTRAÇÃO,Manhã,CONCLUÍDO,310.0,2026-03-26
+5098,  Elisa Silva,Priscila Santos Ribeiro,TÉCNICO EM ENFERMAGEM,Manhã,CURSANDO,490.0,2025-11-25
+5099,Bianca Weber,Lucas Carvalho,TÉCNICO EM ADMINISTRAÇÃO,Noite,CONCLUÍDO,300.0,2026-05-29
+5100,Amanda Souza Marques,Priscila Rocha,TÉCNICO EM ADMINISTRAÇÃO,Manhã,CONCLUÍDO,330.0,2025-02-26
+5101,  Ana Moraes,Patricia Silva,TÉCNICO EM LOGÍSTICA,Tarde,CURSANDO,350.0,2025-12-16
+5102,Priscila Vargas,Gustavo Costa,TÉCNICO EM ENFERMAGEM,Noite,CURSANDO,460.0,2026-06-20
+5103,Sabrina Silva Fontoura,Alexandre Pilla,TÉCNICO EM CONTABILIDADE,Noite,EVADIDO,320.0,2025-04-14
+5104,Vinicius Vargas,Everton Menezes,TÉCNICO EM LOGÍSTICA,Noite,CURSANDO,330.0,2026-06-02
+5105,Gabriela Rocha,Daniela Ferreira,TÉCNICO EM ADMINISTRAÇÃO,Noite,CURSANDO,320.0,2025-06-25
+5106,Mariana Oliveira,Bruno Gomes,TÉCNICO EM ADMINISTRAÇÃO,Manhã,CURSANDO,340.0,2025-11-24
+5107,Andre Barcellos   ,Elisa Goulart Weber,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,CURSANDO,290.0,2026-02-02
+5108,Paulo Rodrigues Fontoura,Jonas Marques,TÉCNICO EM ADMINISTRAÇÃO,Tarde,CONCLUÍDO,320.0,2025-09-24
+5109,Leonardo Oliveira,Elisa Weber Schneider,TÉCNICO EM CONTABILIDADE,Tarde,CONCLUÍDO,310.0,2025-03-05
+5110,Adriana Barcellos Rocha,Douglas Lima Sartori,TÉCNICO EM ESTÉTICA,Noite,CONCLUÍDO,410.0,2025-08-04
+5111,Mariana Weber,Aline Gomes,TÉCNICO EM ESTÉTICA,Manhã,CURSANDO,420.0,2026-07-04
+5112,Priscila Almeida,Vanessa Martins,TÉCNICO EM CONTABILIDADE,Tarde,EVADIDO,290.0,2025-06-18
+5113,Priscila Goulart   ,Paulo Pereira Fontoura,TÉCNICO EM ADMINISTRAÇÃO,Manhã,EVADIDO,310.0,2026-06-03
+5114,Lucas Trindade,Patricia Weber,TÉCNICO EM ADMINISTRAÇÃO,Manhã,CURSANDO,330.0,2026-02-27
+5115,Joao Beltrame,Daniela Vargas,TÉCNICO EM CONTABILIDADE,Noite,CONCLUÍDO,300.0,2025-08-01
+5116,Douglas Rocha,Jessica Moraes Rodrigues,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,CONCLUÍDO,290.0,2026-07-09
+5117,Matheus Schneider,Andre Costa Bueno,TÉCNICO EM ENFERMAGEM,Tarde,CONCLUÍDO,490.0,2025-09-25
+5118,Nathalia Rocha,Vanessa Costa,TÉCNICO EM ADMINISTRAÇÃO,Noite,EVADIDO,320.0,2026-05-12
+5119,Larissa Beltrame   ,Cesar Marques Trindade,TÉCNICO EM INFORMÁTICA,Noite,CONCLUÍDO,390.0,2026-03-18
+5120,Pedro Vargas,Ana Rocha,TÉCNICO EM ADMINISTRAÇÃO,Noite,CONCLUÍDO,320.0,2025-11-23
+5121,Jessica Barcellos,Maria Rodrigues,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,CURSANDO,280.0,2025-03-24
+5122,Otavio Martins,Vinicius Weber Rossi,TÉCNICO EM ADMINISTRAÇÃO,Noite,CONCLUÍDO,330.0,2025-06-04
+5123,Bianca Zanella Gomes,Gabriela Nunes,TÉCNICO EM INFORMÁTICA,Manhã,CURSANDO,400.0,2025-05-17
+5124,Matheus Fagundes,Cristiane Zanella,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,CONCLUÍDO,310.0,2025-05-30
+5125,Simone Weber Gomes   ,Bruna Weber,TÉCNICO EM ENFERMAGEM,Manhã,CONCLUÍDO,460.0,2025-12-22
+5126,Jessica Goulart Barcellos,Marcos Bueno Almeida,TÉCNICO EM ADMINISTRAÇÃO,Manhã,CURSANDO,300.0,2025-07-08
+5127,Fernanda Lima,Sergio Almeida Lima,TÉCNICO EM INFORMÁTICA,Tarde,CURSANDO,390.0,2025-03-21
+5128,Ana Kunz Rossi,Eduarda Souza,TÉCNICO EM ENFERMAGEM,Noite,EVADIDO,490.0,2025-07-03
+5129,Elisa Zanella,Maria Barcellos,TÉCNICO EM ADMINISTRAÇÃO,Tarde,CURSANDO,340.0,2025-09-03
+5130,Nathalia Sartori Schneider,Diego Almeida,TÉCNICO EM ENFERMAGEM,Manhã,CONCLUÍDO,460.0,2026-07-07
+5131,Gabriela Machado Goulart,Everton Fontoura Vargas,TÉCNICO EM ESTÉTICA,Noite,CURSANDO,420.0,2025-02-17
+5132,  Simone Fagundes Almeida,Matheus Lima,TÉCNICO EM INFORMÁTICA,Manhã,CONCLUÍDO,390.0,2025-08-05
+5133,Cristiane Bortolotto,Luciana Oliveira,TÉCNICO EM ENFERMAGEM,Noite,CONCLUÍDO,470.0,2025-10-02
+5134,  Mariana Dutra Dutra,Leonardo Vargas,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,CONCLUÍDO,300.0,2026-04-01
+5135,Douglas Moraes Rocha,Bianca Dutra,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,CURSANDO,300.0,2025-07-02
+5136,Cesar Santos Trindade,Diego Bueno,TÉCNICO EM ADMINISTRAÇÃO,Manhã,CONCLUÍDO,320.0,2026-01-11
+5137,Gustavo Santos,Nathalia Cardoso Pilla,TÉCNICO EM ESTÉTICA,Noite,CONCLUÍDO,440.0,2025-09-06
+5138,Pedro Machado Trindade,Priscila Carvalho,TÉCNICO EM LOGÍSTICA,Noite,CURSANDO,350.0,2026-06-01
+5139,Maria Martins,Rosane Rossi,TÉCNICO EM CONTABILIDADE,Noite,EVADIDO,300.0,2025-05-06
+5140,Douglas Kunz   ,Ricardo Carvalho Menezes,TÉCNICO EM ADMINISTRAÇÃO,Tarde,EVADIDO,330.0,2025-07-10
+5141,Rodrigo Machado,Nathalia Ferreira,TÉCNICO EM INFORMÁTICA,Manhã,EVADIDO,390.0,2026-04-02
+5142,Lucas Ribeiro,Leonardo Fagundes,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,EVADIDO,290.0,2025-03-26
+5143,Ana Goulart Souza,,TÉCNICO EM ENFERMAGEM,Noite,EVADIDO,460.0,2025-04-18
+5144,  Andre Bortolotto,Rafael Bortolotto,TÉCNICO EM ADMINISTRAÇÃO,Tarde,CURSANDO,300.0,2025-06-26
+5145,Fernanda Costa Rocha,Eduardo Bortolotto,TÉCNICO EM ESTÉTICA,Manhã,EVADIDO,400.0,2026-06-16
+5146,Paulo Almeida Kunz   ,Jessica Vargas,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,CONCLUÍDO,300.0,2025-04-22
+5147,Jessica Barcellos,Pedro Lima,TÉCNICO EM SEGURANÇA DO TRABALHO,Manhã,CURSANDO,300.0,2026-03-20
+5148,Everton Trindade,Rodrigo Feltrin Marques,TÉCNICO EM INFORMÁTICA,Noite,CURSANDO,410.0,2025-02-15
+5149,Priscila Sartori,Camila Dutra Rossi,TÉCNICO EM ESTÉTICA,Tarde,CONCLUÍDO,400.0,2025-09-21
+5150,Aline Weber Feltrin   ,Rodrigo Silva,TÉCNICO EM INFORMÁTICA,Manhã,CURSANDO,390.0,2026-05-12
+5151,Leonardo Fagundes   ,Daniela Beltrame,TÉCNICO EM ADMINISTRAÇÃO,Manhã,EVADIDO,340.0,2025-11-05
+5152,Everton Beltrame,Bruna Oliveira Rodrigues,TÉCNICO EM SEGURANÇA DO TRABALHO,Manhã,CURSANDO,300.0,2025-04-09
+5153,Simone Schneider,Amanda Almeida Cardoso,TÉCNICO EM SEGURANÇA DO TRABALHO,Manhã,CURSANDO,280.0,2025-12-04
+5154,Daniela Rossi,Aline Fagundes,TÉCNICO EM ENFERMAGEM,Tarde,EVADIDO,480.0,2026-01-24
+5155,Renata Moraes,Gabriela Rodrigues,TÉCNICO EM CONTABILIDADE,Noite,CONCLUÍDO,330.0,2025-12-22
+5156,Luciana Souza,Sabrina Barcellos Schneider,TÉCNICO EM INFORMÁTICA,Noite,EVADIDO,390.0,2026-03-23
+5157,Fernanda Souza Gomes,Priscila Marques,TÉCNICO EM ADMINISTRAÇÃO,Noite,EVADIDO,310.0,2025-06-20
+5158,Patricia Marques,Vinicius Ferreira Souza,TÉCNICO EM CONTABILIDADE,Noite,CURSANDO,310.0,2025-04-24
+5159,  Rosane Barcellos Fontoura,Alexandre Dutra,TÉCNICO EM ADMINISTRAÇÃO,Tarde,CONCLUÍDO,320.0,2025-05-21
+5160,Jonas Brum,Bruna Rossi,TÉCNICO EM ENFERMAGEM,Tarde,CONCLUÍDO,460.0,2026-01-08
+5161,Bianca Fontoura Pereira,Camila Costa,TÉCNICO EM ENFERMAGEM,Noite,CURSANDO,490.0,2025-12-09
+5162,Gustavo Barcellos,Rodrigo Goulart Pilla,TÉCNICO EM ADMINISTRAÇÃO,Tarde,EVADIDO,310.0,2025-12-16
+5163,Jessica Martins Gomes,Rafael Lima Vargas,TÉCNICO EM CONTABILIDADE,Noite,EVADIDO,310.0,2026-02-05
+5164,Jonas Lima,Luciana Schneider Machado,TÉCNICO EM ENFERMAGEM,Noite,CONCLUÍDO,480.0,2026-07-11
+5165,Bianca Martins,Adriana Fagundes,TÉCNICO EM ENFERMAGEM,Noite,EVADIDO,480.0,2025-05-17
+5166,Gabriela Fontoura,Rosane Weber Costa,TÉCNICO EM LOGÍSTICA,Noite,CURSANDO,340.0,2025-03-31
+5167,  Maicon Pilla,,TÉCNICO EM LOGÍSTICA,Tarde,CONCLUÍDO,350.0,2025-03-13
+5168,  Bianca Santos,Alexandre Barcellos,TÉCNICO EM ENFERMAGEM,Manhã,EVADIDO,500.0,2025-07-08
+5169,Marcos Vargas   ,Tiago Gomes,TÉCNICO EM ADMINISTRAÇÃO,Manhã,CURSANDO,320.0,2025-03-20
+5170,Patricia Menezes,Sergio Ferreira Bortolotto,TÉCNICO EM ADMINISTRAÇÃO,Manhã,EVADIDO,310.0,2025-07-11
+5171,Jessica Feltrin Cardoso,Camila Fontoura Cardoso,TÉCNICO EM ADMINISTRAÇÃO,Manhã,CURSANDO,310.0,2026-04-26
+5172,  Gabriela Fontoura,,TÉCNICO EM LOGÍSTICA,Noite,CURSANDO,340.0,2025-03-31
+5173,Gustavo Barcellos,Rodrigo Goulart Pilla,TÉCNICO EM ADMINISTRAÇÃO,Tarde,EVADIDO,310.0,2025-12-16
+5174,Aline Oliveira Rodrigues,Paulo Moraes,TÉCNICO EM ADMINISTRAÇÃO,Tarde,EVADIDO,310.0,2025-06-23
+5175,Alexandre Oliveira Rodrigues,Cesar Vargas Sartori,TÉCNICO EM ESTÉTICA,Noite,CONCLUÍDO,400.0,2025-07-22
+5176,Gabriela Dutra   ,Luciana Vargas,TÉCNICO EM INFORMÁTICA,Noite,CONCLUÍDO,370.0,2026-03-17
+5177,Gabriela Fagundes Rodrigues,,TÉCNICO EM CONTABILIDADE,Manhã,CURSANDO,310.0,2025-07-18
+5178,Bianca Oliveira,Luciana Ribeiro,TÉCNICO EM ADMINISTRAÇÃO,Noite,CURSANDO,340.0,2026-06-24
+5179,Bruna Kunz,Joao Schneider,TÉCNICO EM LOGÍSTICA,Tarde,CONCLUÍDO,350.0,2025-04-30
+5180,Sergio Carvalho Moraes   ,Vinicius Cardoso Fontoura,TÉCNICO EM ADMINISTRAÇÃO,Manhã,EVADIDO,330.0,2025-12-31
+5181,  Gabriela Zanella,,TÉCNICO EM INFORMÁTICA,Manhã,EVADIDO,410.0,2025-09-09
+5182,  Rafael Lima Kunz,Luciana Machado,TÉCNICO EM SEGURANÇA DO TRABALHO,Tarde,CURSANDO,300.0,2026-03-31
+5183,Adriana Feltrin,Nelson Schneider,TÉCNICO EM ESTÉTICA,Noite,CURSANDO,430.0,2025-10-11
+5184,Pedro Vargas,Gustavo Trindade,TÉCNICO EM INFORMÁTICA,Noite,CURSANDO,400.0,2026-02-20
+5185,Bruno Weber Marques,Ricardo Costa,TÉCNICO EM ENFERMAGEM,Noite,EVADIDO,490.0,2025-07-04
+5186,Lucas Rodrigues Rossi,Felipe Fagundes Menezes,TÉCNICO EM ESTÉTICA,Noite,CURSANDO,440.0,2025-02-21
+5187,Douglas Schneider,Otavio Feltrin,TÉCNICO EM ADMINISTRAÇÃO,Noite,EVADIDO,310.0,2026-04-22
+5188,Nathalia Pereira Beltrame,Rosane Menezes Marques,TÉCNICO EM ADMINISTRAÇÃO,Noite,CONCLUÍDO,320.0,2026-05-07
+5189,Rosane Menezes,Eduarda Martins Weber,TÉCNICO EM LOGÍSTICA,Manhã,CURSANDO,340.0,2025-05-11
+5190,Nathalia Lima Marques,Eduardo Santos,TÉCNICO EM ENFERMAGEM,Manhã,EVADIDO,480.0,2026-06-25
+5191,Douglas Pilla,Joao Nunes,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,CONCLUÍDO,300.0,2025-03-12
+5192,  Everton Pereira,Vinicius Bortolotto,TÉCNICO EM INFORMÁTICA,Manhã,EVADIDO,370.0,2026-06-15
+5193,Nelson Almeida,Felipe Carvalho Fagundes,TÉCNICO EM INFORMÁTICA,Manhã,CURSANDO,370.0,2026-01-30
+5194,Ana Rossi Ferreira,Vinicius Kunz,TÉCNICO EM INFORMÁTICA,Noite,EVADIDO,380.0,2025-08-20
+5195,Aline Brum,Elisa Machado,TÉCNICO EM CONTABILIDADE,Noite,EVADIDO,330.0,2025-09-09
+5196,Nelson Souza,Maria Rodrigues,TÉCNICO EM ADMINISTRAÇÃO,Noite,EVADIDO,320.0,2026-05-21
+5197,Adriana Beltrame,Willian Lima,TÉCNICO EM LOGÍSTICA,Tarde,CURSANDO,330.0,2026-03-30
+5198,Ricardo Trindade,Marcos Almeida,TÉCNICO EM ADMINISTRAÇÃO,Manhã,CURSANDO,330.0,2026-05-03
+5199,Tatiane Beltrame Moraes,Leticia Martins,TÉCNICO EM SEGURANÇA DO TRABALHO,Manhã,CONCLUÍDO,310.0,2025-10-01
+5200,Tatiane Ribeiro,Willian Zanella,TÉCNICO EM INFORMÁTICA,Manhã,CONCLUÍDO,400.0,2026-02-26
+5201,Vanessa Moraes,Mariana Menezes Vargas,TÉCNICO EM CONTABILIDADE,Tarde,CURSANDO,320.0,2025-02-05
+5202,  Priscila Goulart,Matheus Ferreira,TÉCNICO EM INFORMÁTICA,Manhã,CURSANDO,410.0,2025-05-17
+5203,Sabrina Almeida,,TÉCNICO EM LOGÍSTICA,Noite,CURSANDO,350.0,2026-06-13
+5204,  Simone Oliveira,Fabio Vargas Ribeiro,TÉCNICO EM ESTÉTICA,Noite,CONCLUÍDO,440.0,2025-12-09
+5205,  Douglas Moraes Rocha,Bianca Dutra,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,CURSANDO,300.0,2025-07-02
+5206,Bianca Beltrame Costa,Simone Brum,TÉCNICO EM ENFERMAGEM,Manhã,EVADIDO,470.0,2025-11-17
+5207,Juliana Costa,Tiago Fontoura Fontoura,TÉCNICO EM INFORMÁTICA,Manhã,CURSANDO,400.0,2025-06-12
+5208,Fabio Rodrigues,Leticia Dutra,TÉCNICO EM ADMINISTRAÇÃO,Noite,CONCLUÍDO,300.0,2026-07-28
+5209,  Matheus Marques,Bruna Pereira,TÉCNICO EM ESTÉTICA,Noite,EVADIDO,410.0,2026-04-29
+5210,Ricardo Fagundes Martins   ,Luciana Moraes Pereira,TÉCNICO EM ESTÉTICA,Noite,CURSANDO,430.0,2025-10-03
+5211,Simone Dutra,Bruno Almeida,TÉCNICO EM ADMINISTRAÇÃO,Manhã,CONCLUÍDO,310.0,2026-04-03
+5212,Leticia Goulart,Amanda Nunes Martins,TÉCNICO EM ADMINISTRAÇÃO,Noite,CURSANDO,320.0,2026-05-19
+5213,Matheus Schneider Rodrigues,Tatiane Rossi,TÉCNICO EM ESTÉTICA,Manhã,CURSANDO,420.0,2025-03-24
+5214,Rodrigo Sartori,Rafael Rodrigues Beltrame,TÉCNICO EM ADMINISTRAÇÃO,Noite,CURSANDO,340.0,2026-07-04
+5215,Bruna Vargas,Rafael Santos,TÉCNICO EM SEGURANÇA DO TRABALHO,Manhã,CURSANDO,280.0,2025-08-08
+5216,Pedro Marques,Aline Silva Martins,TÉCNICO EM ADMINISTRAÇÃO,Noite,CURSANDO,340.0,2025-03-28
+5217,Maria Silva,Douglas Costa Trindade,TÉCNICO EM ADMINISTRAÇÃO,Tarde,CURSANDO,320.0,2026-02-23
+5218,Ana Costa Rodrigues,Rafael Dutra Bueno,TÉCNICO EM SEGURANÇA DO TRABALHO,Tarde,EVADIDO,320.0,2025-08-24
+5219,Tiago Ribeiro Kunz,Cristiane Goulart,TÉCNICO EM ADMINISTRAÇÃO,Noite,CURSANDO,310.0,2025-09-22
+5220,Maicon Pilla,Ana Goulart Zanella,TÉCNICO EM LOGÍSTICA,Tarde,CONCLUÍDO,350.0,2025-03-13
+5221,Thiago Barcellos Cardoso,Carla Machado,TÉCNICO EM ENFERMAGEM,Noite,CURSANDO,470.0,2025-09-12
+5222,Alexandre Costa Trindade,Camila Schneider,TÉCNICO EM ADMINISTRAÇÃO,Noite,EVADIDO,330.0,2026-04-07
+5223,Marcos Marques Goulart,Matheus Cardoso Rodrigues,TÉCNICO EM LOGÍSTICA,Manhã,CONCLUÍDO,340.0,2026-06-08
+5224,Juliana Pilla Souza   ,Thiago Feltrin Beltrame,TÉCNICO EM ENFERMAGEM,Manhã,CONCLUÍDO,500.0,2025-09-07
+5225,Bruno Schneider,Joao Dutra,TÉCNICO EM CONTABILIDADE,Tarde,EVADIDO,320.0,2026-05-02
+5226,Nathalia Silva,Juliana Costa Costa,TÉCNICO EM CONTABILIDADE,Noite,CURSANDO,290.0,2026-03-27
+5227,Ricardo Menezes,Tatiane Zanella Zanella,TÉCNICO EM INFORMÁTICA,Noite,CONCLUÍDO,390.0,2025-07-24
+5228,Mariana Zanella Marques,Gabriela Rossi,TÉCNICO EM LOGÍSTICA,Tarde,CURSANDO,330.0,2025-02-28
+5229,Gabriela Oliveira,Patricia Rocha,TÉCNICO EM CONTABILIDADE,Manhã,CURSANDO,310.0,2026-02-03
+5230,Cesar Machado,Vanessa Pereira,TÉCNICO EM INFORMÁTICA,Noite,CURSANDO,380.0,2025-07-27
+5231,Adriana Bortolotto,Sergio Nunes Rossi,TÉCNICO EM ESTÉTICA,Manhã,CONCLUÍDO,420.0,2026-07-07
+5232,Juliana Sartori Pilla,Joao Ferreira,TÉCNICO EM CONTABILIDADE,Tarde,CURSANDO,290.0,2025-04-21
+5233,Aline Weber Feltrin,Rodrigo Silva,TÉCNICO EM INFORMÁTICA,Manhã,CURSANDO,390.0,2026-05-12
+5234,  Sergio Santos,Rosane Souza,TÉCNICO EM INFORMÁTICA,Manhã,CONCLUÍDO,390.0,2026-03-07
+5235,Andre Souza Beltrame,Gustavo Ribeiro,TÉCNICO EM CONTABILIDADE,Manhã,CURSANDO,310.0,2025-11-10
+5236,Fabio Menezes Goulart,Paulo Almeida,TÉCNICO EM LOGÍSTICA,Tarde,EVADIDO,330.0,2026-06-08
+5237,Leonardo Costa,Eduardo Moraes,TÉCNICO EM ESTÉTICA,Noite,CURSANDO,440.0,2025-09-18
+5238,Thiago Fontoura,Daniela Barcellos Marques,TÉCNICO EM ENFERMAGEM,Noite,EVADIDO,470.0,2025-06-22
+5239,Adriana Gomes Zanella,Rodrigo Goulart,TÉCNICO EM INFORMÁTICA,Noite,CURSANDO,390.0,2025-05-22
+5240,Priscila Silva,Gabriela Souza,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,CONCLUÍDO,280.0,2025-07-05
+5241,Ana Santos,Daniela Ribeiro,TÉCNICO EM ENFERMAGEM,Noite,EVADIDO,500.0,2026-01-12
+5242,Luciana Ferreira,Nathalia Gomes,TÉCNICO EM SEGURANÇA DO TRABALHO,Tarde,EVADIDO,320.0,2025-12-13
+5243,Bruna Santos,Maria Souza Menezes,TÉCNICO EM LOGÍSTICA,Noite,CONCLUÍDO,340.0,2026-03-07
+5244,Rodrigo Lima,Otavio Lima,TÉCNICO EM CONTABILIDADE,Tarde,EVADIDO,310.0,2026-04-06
+5245,Sabrina Carvalho Beltrame,Everton Bortolotto,TÉCNICO EM CONTABILIDADE,Manhã,CURSANDO,310.0,2025-02-11
+5246,Vanessa Ribeiro,Jessica Cardoso Rossi,TÉCNICO EM ESTÉTICA,Noite,CONCLUÍDO,420.0,2025-04-25
+5247,Thiago Rocha Gomes,Pedro Trindade Trindade,TÉCNICO EM CONTABILIDADE,Noite,EVADIDO,290.0,2025-04-22
+5248,Elisa Weber Menezes,Marcos Bortolotto,TÉCNICO EM ESTÉTICA,Manhã,CONCLUÍDO,420.0,2025-05-25
+5249,Maria Souza   ,Cristiane Pilla,TÉCNICO EM ADMINISTRAÇÃO,Noite,EVADIDO,340.0,2025-08-24
+5250,Aline Dutra Dutra,Fernanda Zanella,TÉCNICO EM ADMINISTRAÇÃO,Noite,CONCLUÍDO,300.0,2026-01-08
+5251,Simone Rodrigues,Renata Sartori Zanella,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,CURSANDO,300.0,2026-06-03
+5252,Cristiane Schneider,Rosane Carvalho Martins,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,CURSANDO,280.0,2025-06-28
+5253,Larissa Schneider,Vinicius Rossi,TÉCNICO EM INFORMÁTICA,Manhã,CONCLUÍDO,390.0,2025-05-19
+5254,Cristiane Carvalho,Nelson Fontoura,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,CURSANDO,320.0,2026-02-27
+5255,Priscila Fagundes,Jonas Menezes Almeida,TÉCNICO EM INFORMÁTICA,Noite,CONCLUÍDO,390.0,2025-10-25
+5256,Maria Sartori,Alexandre Weber Beltrame,TÉCNICO EM ENFERMAGEM,Noite,EVADIDO,460.0,2026-06-26
+5257,Ricardo Marques Menezes,Daniela Rodrigues Almeida,TÉCNICO EM ADMINISTRAÇÃO,Noite,CURSANDO,320.0,2025-03-19
+5258,Vanessa Pilla,Jessica Dutra,TÉCNICO EM SEGURANÇA DO TRABALHO,Manhã,CURSANDO,300.0,2026-03-03
+5259,Camila Almeida Ribeiro,Gustavo Pilla,TÉCNICO EM CONTABILIDADE,Noite,CURSANDO,310.0,2025-10-16
+5260,Maria Martins,Rosane Trindade,TÉCNICO EM ADMINISTRAÇÃO,Tarde,CONCLUÍDO,310.0,2026-07-24
+5261,Paulo Schneider,Nelson Almeida Rodrigues,TÉCNICO EM INFORMÁTICA,Noite,CONCLUÍDO,390.0,2026-01-27
+5262,Carla Nunes,Daniela Santos,TÉCNICO EM INFORMÁTICA,Noite,CURSANDO,370.0,2025-07-29
+5263,  Gustavo Silva Dutra,Elisa Schneider,TÉCNICO EM ESTÉTICA,Manhã,EVADIDO,430.0,2026-07-25
+5264,Eduardo Barcellos,Cristiane Nunes Souza,TÉCNICO EM ADMINISTRAÇÃO,Noite,EVADIDO,330.0,2025-08-28
+5265,Renata Gomes,Leonardo Pereira,TÉCNICO EM ENFERMAGEM,Noite,CURSANDO,490.0,2025-09-12
+5266,Daniela Kunz,Nelson Almeida Menezes,TÉCNICO EM LOGÍSTICA,Noite,EVADIDO,310.0,2026-02-20
+5267,Bianca Silva Fontoura,Leticia Rodrigues,TÉCNICO EM INFORMÁTICA,Noite,CURSANDO,390.0,2025-06-10
+5268,Amanda Almeida,Aline Santos,TÉCNICO EM ADMINISTRAÇÃO,Noite,EVADIDO,320.0,2025-11-14
+5269,Fernanda Rocha   ,,TÉCNICO EM ENFERMAGEM,Manhã,CURSANDO,480.0,2026-01-19
+5270,Thiago Fontoura Cardoso,Carla Kunz Machado,TÉCNICO EM ENFERMAGEM,Manhã,CONCLUÍDO,480.0,2026-06-30
+5271,Eduarda Carvalho,,TÉCNICO EM ENFERMAGEM,Tarde,EVADIDO,460.0,2025-10-17
+5272,Luciana Schneider Pereira,Nathalia Vargas,TÉCNICO EM ENFERMAGEM,Tarde,CURSANDO,480.0,2026-06-12
+5273,Rafael Costa Gomes,Renata Ribeiro Beltrame,TÉCNICO EM ADMINISTRAÇÃO,Noite,CURSANDO,300.0,2026-02-04
+5274,Matheus Ribeiro,Gabriela Machado,TÉCNICO EM ADMINISTRAÇÃO,Tarde,CURSANDO,300.0,2026-04-22
+5275,Patricia Menezes Martins,Eduarda Lima Dutra,TÉCNICO EM ADMINISTRAÇÃO,Tarde,CURSANDO,310.0,2026-07-28
+5276,Leticia Goulart,Bianca Gomes Ferreira,TÉCNICO EM ADMINISTRAÇÃO,Noite,CONCLUÍDO,300.0,2025-11-03
+5277,Aline Silva,Carla Oliveira Gomes,TÉCNICO EM ESTÉTICA,Noite,CURSANDO,430.0,2026-04-17
+5278,Bianca Santos,Alexandre Barcellos,TÉCNICO EM ENFERMAGEM,Manhã,EVADIDO,500.0,2025-07-08
+5279,Gustavo Souza Ribeiro,Tatiane Zanella,TÉCNICO EM INFORMÁTICA,Tarde,CONCLUÍDO,410.0,2025-10-12
+5280,Lucas Cardoso,Elisa Brum Oliveira,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,CURSANDO,310.0,2025-06-28
+5281,Ricardo Menezes,Leticia Costa,TÉCNICO EM ADMINISTRAÇÃO,Tarde,CURSANDO,320.0,2025-03-27
+5282,Jonas Carvalho,Cristiane Costa,TÉCNICO EM ENFERMAGEM,Noite,CURSANDO,490.0,2025-09-09
+5283,Tatiane Souza,Rodrigo Schneider,TÉCNICO EM SEGURANÇA DO TRABALHO,Manhã,CURSANDO,320.0,2026-01-02
+5284,Rosane Trindade Weber,Amanda Costa Brum,TÉCNICO EM ENFERMAGEM,Noite,EVADIDO,480.0,2025-09-23
+5285,Nathalia Goulart,Alexandre Ferreira Lima,TÉCNICO EM ADMINISTRAÇÃO,Tarde,EVADIDO,320.0,2026-05-23
+5286,Luciana Weber Silva,Bruno Pilla Sartori,TÉCNICO EM ADMINISTRAÇÃO,Noite,EVADIDO,340.0,2026-06-02
+5287,Amanda Rocha,Matheus Brum,TÉCNICO EM ESTÉTICA,Manhã,CURSANDO,420.0,2026-07-31
+5288,Aline Oliveira Lima,Vinicius Trindade Zanella,TÉCNICO EM ADMINISTRAÇÃO,Tarde,EVADIDO,320.0,2025-02-27
+5289,Rosane Vargas,Elisa Gomes,TÉCNICO EM ADMINISTRAÇÃO,Noite,EVADIDO,320.0,2026-04-13
+5290,Otavio Martins Goulart,Bruno Fontoura Almeida,TÉCNICO EM ESTÉTICA,Noite,CURSANDO,420.0,2026-07-10
+5291,Matheus Pereira Gomes,Douglas Almeida,TÉCNICO EM SEGURANÇA DO TRABALHO,Manhã,CURSANDO,310.0,2026-03-30
+5292,Sergio Beltrame,Renata Barcellos,TÉCNICO EM ADMINISTRAÇÃO,Manhã,EVADIDO,320.0,2025-04-05
+5293,Maria Almeida,Alexandre Brum,TÉCNICO EM ADMINISTRAÇÃO,Noite,CURSANDO,300.0,2026-07-20
+5294,Gabriela Rodrigues,Ana Dutra Bueno,TÉCNICO EM LOGÍSTICA,Manhã,CONCLUÍDO,330.0,2025-05-15
+5295,Leonardo Rossi Barcellos,Tatiane Barcellos Ferreira,TÉCNICO EM ADMINISTRAÇÃO,Tarde,CONCLUÍDO,340.0,2025-03-14
+5296,Rafael Souza,Felipe Ribeiro,TÉCNICO EM ADMINISTRAÇÃO,Noite,CONCLUÍDO,320.0,2025-02-09
+5297,Sabrina Oliveira,Renata Fontoura Goulart,TÉCNICO EM INFORMÁTICA,Manhã,CURSANDO,390.0,2026-02-01
+5298,Nelson Marques,Nelson Almeida,TÉCNICO EM INFORMÁTICA,Tarde,CURSANDO,390.0,2025-07-31
+5299,Rosane Bueno Almeida,Cristiane Schneider,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,CURSANDO,300.0,2026-03-07
+5300,Jessica Pereira,,TÉCNICO EM INFORMÁTICA,Noite,CONCLUÍDO,410.0,2026-01-24
+5301,Marcos Pilla,Maicon Sartori,TÉCNICO EM ENFERMAGEM,Manhã,EVADIDO,480.0,2025-03-27
+5302,Carla Rodrigues,Eduarda Ribeiro,TÉCNICO EM INFORMÁTICA,Manhã,EVADIDO,400.0,2025-07-03
+5303,Amanda Martins Ferreira,Gabriela Zanella,TÉCNICO EM ADMINISTRAÇÃO,Noite,CONCLUÍDO,330.0,2026-04-15
+5304,Sergio Souza   ,Sergio Barcellos,TÉCNICO EM LOGÍSTICA,Manhã,EVADIDO,330.0,2026-07-14
+5305,Patricia Nunes Schneider,Eduarda Kunz,TÉCNICO EM INFORMÁTICA,Noite,CONCLUÍDO,380.0,2025-03-07
+5306,Jessica Dutra,Jessica Barcellos,TÉCNICO EM ENFERMAGEM,Manhã,CURSANDO,480.0,2025-09-22
+5307,Lucas Cardoso,Elisa Brum Oliveira,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,CURSANDO,310.0,2025-06-28
+5308,Mariana Rodrigues Schneider,Aline Gomes Machado,TÉCNICO EM ADMINISTRAÇÃO,Tarde,CURSANDO,340.0,2025-10-13
+5309,Rafael Machado,Thiago Weber Pilla,TÉCNICO EM ADMINISTRAÇÃO,Tarde,EVADIDO,320.0,2025-08-25
+5310,Luciana Brum,Ana Sartori,TÉCNICO EM ENFERMAGEM,Noite,EVADIDO,490.0,2026-04-05
+5311,Everton Dutra,Bruna Zanella Gomes,TÉCNICO EM ADMINISTRAÇÃO,Manhã,CURSANDO,330.0,2025-12-04
+5312,Vinicius Sartori,Bianca Souza,TÉCNICO EM ADMINISTRAÇÃO,Noite,EVADIDO,310.0,2026-02-18
+5313,Felipe Fontoura,Bruna Brum,TÉCNICO EM SEGURANÇA DO TRABALHO,Manhã,CONCLUÍDO,290.0,2026-07-16
+5314,Jessica Feltrin Pilla,Nelson Dutra Silva,TÉCNICO EM ADMINISTRAÇÃO,Noite,CURSANDO,340.0,2026-07-20
+5315,Bruno Pilla,Simone Vargas,TÉCNICO EM INFORMÁTICA,Noite,CONCLUÍDO,370.0,2025-08-21
+5316,Adriana Nunes Costa,Carla Souza,TÉCNICO EM ENFERMAGEM,Noite,CURSANDO,500.0,2026-05-02
+5317,Larissa Beltrame,Cesar Marques Trindade,TÉCNICO EM INFORMÁTICA,Noite,CONCLUÍDO,390.0,2026-03-18
+5318,Maicon Rossi,Gabriela Machado Martins,TÉCNICO EM ADMINISTRAÇÃO,Noite,EVADIDO,320.0,2026-05-14
+5319,Marcos Almeida,Fabio Santos Ferreira,TÉCNICO EM CONTABILIDADE,Noite,CONCLUÍDO,320.0,2025-08-11
+5320,Aline Silva,Juliana Carvalho,TÉCNICO EM INFORMÁTICA,Manhã,CONCLUÍDO,410.0,2026-04-13
+5321,Bianca Pereira,Fabio Schneider,TÉCNICO EM INFORMÁTICA,Manhã,CURSANDO,380.0,2025-10-24
+5322,Eduardo Marques,Carla Lima Bueno,TÉCNICO EM INFORMÁTICA,Noite,EVADIDO,390.0,2026-01-14
+5323,Alexandre Cardoso Rodrigues,Adriana Souza,TÉCNICO EM ENFERMAGEM,Manhã,EVADIDO,470.0,2025-04-24
+5324,Juliana Costa,Tiago Fontoura Fontoura,TÉCNICO EM INFORMÁTICA,Manhã,CURSANDO,400.0,2025-06-12
+5325,Rosane Trindade,Marcos Pilla Sartori,TÉCNICO EM ADMINISTRAÇÃO,Manhã,CURSANDO,340.0,2026-06-23
+5326,Rafael Bortolotto Fontoura,Simone Moraes,TÉCNICO EM LOGÍSTICA,Manhã,CONCLUÍDO,340.0,2026-01-16
+5327,Patricia Machado Santos,Maria Kunz,TÉCNICO EM ADMINISTRAÇÃO,Tarde,CURSANDO,310.0,2026-05-31
+5328,Thiago Goulart Rossi,Rosane Gomes Zanella,TÉCNICO EM INFORMÁTICA,Noite,CURSANDO,380.0,2026-03-12
+5329,Maicon Ribeiro,Patricia Bueno Brum,TÉCNICO EM INFORMÁTICA,Noite,CONCLUÍDO,380.0,2025-10-08
+5330,Sergio Bortolotto Machado   ,Patricia Ribeiro,TÉCNICO EM LOGÍSTICA,Manhã,EVADIDO,310.0,2025-10-09
+5331,Ricardo Cardoso,Willian Schneider,TÉCNICO EM INFORMÁTICA,Manhã,CURSANDO,390.0,2026-01-17
+5332,  Aline Oliveira Rodrigues,Paulo Moraes,TÉCNICO EM ADMINISTRAÇÃO,Tarde,EVADIDO,310.0,2025-06-23
+5333,Larissa Barcellos,Lucas Fagundes,TÉCNICO EM ADMINISTRAÇÃO,Manhã,CONCLUÍDO,320.0,2025-05-08
+5334,Fabio Rodrigues Feltrin,Juliana Fagundes,TÉCNICO EM SEGURANÇA DO TRABALHO,Manhã,CURSANDO,280.0,2025-02-27
+5335,Cesar Oliveira Bortolotto,Pedro Souza,TÉCNICO EM ADMINISTRAÇÃO,Tarde,CONCLUÍDO,310.0,2025-04-20
+5336,Rosane Zanella Bortolotto,,TÉCNICO EM ENFERMAGEM,Noite,EVADIDO,470.0,2025-11-20
+5337,Daniela Rodrigues,Maria Lima,TÉCNICO EM INFORMÁTICA,Noite,CURSANDO,390.0,2025-04-19
+5338,Tatiane Gomes,Camila Moraes Souza,TÉCNICO EM INFORMÁTICA,Noite,EVADIDO,400.0,2025-02-07
+5339,Everton Cardoso Costa,Larissa Lima,TÉCNICO EM ADMINISTRAÇÃO,Manhã,CONCLUÍDO,310.0,2026-03-26
+5340,Amanda Pereira   ,Tatiane Silva Almeida,TÉCNICO EM CONTABILIDADE,Noite,CONCLUÍDO,290.0,2025-03-30
+5341,Adriana Cardoso Silva,Eduardo Costa,TÉCNICO EM INFORMÁTICA,Tarde,CURSANDO,370.0,2026-02-15
+5342,Tatiane Cardoso,Douglas Dutra Nunes,TÉCNICO EM ADMINISTRAÇÃO,Noite,CURSANDO,340.0,2025-10-26
+5343,Jessica Rossi Bueno   ,Tiago Costa,TÉCNICO EM ADMINISTRAÇÃO,Noite,CONCLUÍDO,330.0,2026-05-12
+5344,Diego Rossi Goulart,Bruna Ribeiro,TÉCNICO EM ADMINISTRAÇÃO,Manhã,EVADIDO,320.0,2025-04-05
+5345,Elisa Schneider Marques,Rafael Zanella,TÉCNICO EM INFORMÁTICA,Manhã,EVADIDO,390.0,2026-01-14
+5346,Leticia Pilla,Daniela Bueno Rodrigues,TÉCNICO EM ENFERMAGEM,Noite,CONCLUÍDO,500.0,2026-03-18
+5347,Ricardo Bueno,Mariana Gomes,TÉCNICO EM INFORMÁTICA,Noite,CURSANDO,400.0,2025-04-16
+5348,Ricardo Nunes Almeida,Simone Weber,TÉCNICO EM ADMINISTRAÇÃO,Noite,CURSANDO,300.0,2025-11-15
+5349,Ricardo Machado Menezes,Ana Vargas,TÉCNICO EM ENFERMAGEM,Noite,CONCLUÍDO,460.0,2025-03-22
+5350,Priscila Costa,Bruna Bortolotto Bueno,TÉCNICO EM INFORMÁTICA,Manhã,CURSANDO,410.0,2026-07-19
+5351,Matheus Brum,Sabrina Machado,TÉCNICO EM ADMINISTRAÇÃO,Manhã,CURSANDO,340.0,2026-02-01
+5352,Renata Pilla,Rodrigo Rodrigues Schneider,TÉCNICO EM ESTÉTICA,Manhã,CURSANDO,440.0,2026-06-16
+5353,Maicon Kunz,Maria Pereira Costa,TÉCNICO EM INFORMÁTICA,Noite,CONCLUÍDO,370.0,2026-01-15
+5354,Fernanda Weber,Fernanda Schneider,TÉCNICO EM ADMINISTRAÇÃO,Noite,CONCLUÍDO,330.0,2026-07-27
+5355,Bruna Souza,Nathalia Rossi,TÉCNICO EM ADMINISTRAÇÃO,Manhã,CONCLUÍDO,300.0,2025-08-11
+5356,Andre Barcellos Fagundes,Simone Oliveira Goulart,TÉCNICO EM INFORMÁTICA,Manhã,CURSANDO,410.0,2025-06-25
+5357,Fabio Rocha,Sabrina Bueno Gomes,TÉCNICO EM ADMINISTRAÇÃO,Manhã,CONCLUÍDO,300.0,2025-08-23
+5358,Patricia Vargas,Alexandre Costa Trindade,TÉCNICO EM ADMINISTRAÇÃO,Noite,EVADIDO,300.0,2026-02-17
+5359,Sergio Ribeiro Bueno,Felipe Machado Sartori,TÉCNICO EM INFORMÁTICA,Manhã,CONCLUÍDO,410.0,2025-04-12
+5360,Gustavo Barcellos Pilla,Gabriela Sartori,TÉCNICO EM ADMINISTRAÇÃO,Tarde,CONCLUÍDO,320.0,2026-07-23
+5361,Everton Sartori,Andre Oliveira,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,CURSANDO,300.0,2025-06-20
+5362,Patricia Barcellos,,TÉCNICO EM ADMINISTRAÇÃO,Tarde,CONCLUÍDO,300.0,2025-04-13
+5363,Douglas Rocha   ,Simone Barcellos,TÉCNICO EM ADMINISTRAÇÃO,Manhã,CURSANDO,320.0,2025-10-17
+5364,Nathalia Souza,Maicon Souza,TÉCNICO EM ADMINISTRAÇÃO,Noite,CURSANDO,330.0,2025-06-07
+5365,Andre Ferreira,Willian Vargas,TÉCNICO EM ADMINISTRAÇÃO,Noite,CONCLUÍDO,320.0,2025-05-11
+5366,Sabrina Fagundes,Nelson Rocha,TÉCNICO EM CONTABILIDADE,Noite,CURSANDO,330.0,2026-06-05
+5367,Paulo Brum,,TÉCNICO EM ADMINISTRAÇÃO,Noite,CONCLUÍDO,320.0,2026-03-07
+5368,Camila Bueno,Fabio Rossi,TÉCNICO EM ADMINISTRAÇÃO,Noite,CURSANDO,330.0,2025-04-09
+5369,Paulo Martins,Jonas Pereira,TÉCNICO EM LOGÍSTICA,Noite,CURSANDO,310.0,2025-07-25
+5370,Gabriela Marques Trindade,Bruna Trindade Martins,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,CONCLUÍDO,300.0,2025-02-12
+5371,Nathalia Kunz,,TÉCNICO EM SEGURANÇA DO TRABALHO,Manhã,CONCLUÍDO,310.0,2026-02-03
+5372,Patricia Zanella,Joao Sartori Martins,TÉCNICO EM CONTABILIDADE,Manhã,CURSANDO,310.0,2025-04-28
+5373,  Gabriela Dutra,,TÉCNICO EM INFORMÁTICA,Noite,CONCLUÍDO,370.0,2026-03-17
+5374,Marcos Zanella,Leonardo Oliveira Brum,TÉCNICO EM SEGURANÇA DO TRABALHO,Noite,CURSANDO,290.0,2026-02-13
+5375,Mariana Sartori Weber,Marcos Bueno,TÉCNICO EM ADMINISTRAÇÃO,Tarde,EVADIDO,320.0,2025-02-03
+5376,Renata Pilla,Ricardo Oliveira,TÉCNICO EM ESTÉTICA,Manhã,CONCLUÍDO,410.0,2025-08-26
+5377,Everton Schneider,Maria Dutra,TÉCNICO EM LOGÍSTICA,Noite,CONCLUÍDO,330.0,2026-05-16
+5378,Thiago Brum,Renata Rossi,TÉCNICO EM LOGÍSTICA,Manhã,CURSANDO,310.0,2025-11-15
+5379,Ana Santos,Vinicius Rossi,TÉCNICO EM LOGÍSTICA,Tarde,CURSANDO,310.0,2026-05-30
+5380,Elisa Marques Lima,Tiago Bueno,TÉCNICO EM ESTÉTICA,Noite,CURSANDO,420.0,2025-11-23
+5381,Tatiane Vargas,Sergio Ribeiro Trindade,TÉCNICO EM ESTÉTICA,Manhã,CURSANDO,400.0,2025-05-08
+5382,  Nathalia Machado Bueno,Tatiane Souza Ribeiro,TÉCNICO EM ESTÉTICA,Tarde,CONCLUÍDO,420.0,2025-08-01
+5383,Elisa Schneider Marques,Rafael Zanella,TÉCNICO EM INFORMÁTICA,Manhã,EVADIDO,390.0,2026-01-14
+5384,Matheus Martins,Sergio Dutra,TÉCNICO EM LOGÍSTICA,Noite,CONCLUÍDO,330.0,2026-01-20
