@@ -22,7 +22,7 @@ A interface consome essa API usando `fetch()` e manipula o DOM para exibir os ca
 
 ## ⚙️ Arquitetura e Fluxo de Dados
 
-1. **Tratamento(`Pandas + Mathplotlib`):** Um arquivo .csv é tratado utilizando Pandas, então o código utiliza o mathplotlib para gerar gráficos baseados nos dados tratados, e então salva esses dados um arquivo escola.db.
+1. **Tratamento(`Pandas + Mathplotlib`):** Um arquivo .csv é tratado utilizando Pandas, então o código utiliza o Mathplotlib para gerar gráficos baseados nos dados tratados, e então salva esses dados um arquivo escola.db.
 2. **Persistência (`escola.db`):** A consulta SQL filtra as matrículas ativas, agrupa por curso e ordena do maior para o menor total de alunos (`GROUP BY` e `ORDER BY`).
 3. **API (`App.py`):**
    - Rota `/` -> Renderiza a tela principal (`index.html`).
